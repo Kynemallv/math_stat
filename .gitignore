@@ -1,1 +1,7 @@
-venv
+# uv stuff
+.venv
+*.toml
+*.lock
+
+# jupyter metadata
+*.ipynb_*
